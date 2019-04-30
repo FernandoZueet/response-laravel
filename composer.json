@@ -18,6 +18,9 @@
         "phpunit/phpunit-selenium": ">=1.2"
     },
     "autoload": {
+        "files": [
+			"src/helpers.php"
+		],
         "psr-4": {
             "FzResponse\\": "src/"
         }
