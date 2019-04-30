@@ -35,6 +35,11 @@ Response success:
 
 ```php
 return respond_success('Record changed successfully.');
+
+//or 
+
+//create translation file
+return respond_success('filex.record_success');
 ```
 
 ```json
