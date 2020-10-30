@@ -7,7 +7,7 @@ Library for standardization of error messages and success of api json.
 ## Requirements
 
 -   PHP 7.0 or newer;
--   Laravel 5.5 or newer;
+-   Laravel 5.8 or newer;
 
 ---
 

@@ -4,17 +4,16 @@
  * This file is part of the FzResponse package
  *
  * @link http://github.com/fernandozueet/response-laravel
- * @copyright 2019
+ * @copyright 2020
  * @license MIT License
  * @author Fernando Zueet <fernandozueet@hotmail.com>
  */
 
 namespace Tests;
 
-class CoreTest extends \PHPUnit_Framework_TestCase
+use PHPUnit\Framework\TestCase;
+
+class CoreTest extends TestCase
 {
-    public function main()
-    {
-		//
-	}
+   
 }

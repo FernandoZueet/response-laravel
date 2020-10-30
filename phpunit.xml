@@ -16,7 +16,7 @@
     </testsuites>
     <php>
         <server name='HTTP_HOST' value='http://localhost' />
-        <server name="SERVER_NAME" value="http://localhost/fz-response/"/>
+        <server name="SERVER_NAME" value="http://localhost"/>
         <server name="SERVER_PORT" value="80"/>
         <server name="REMOTE_ADDR" value="127.1.2.3"/>
     </php>
